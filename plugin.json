@@ -1,0 +1,4 @@
+{
+    "executable" : "cassandra.py",
+    "description" : "Apache Cassandra plugin"
+}
